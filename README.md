@@ -12,5 +12,5 @@ it has been designed in kicad and i used the libraries from the guide.
 # CAD design
 <img width="955" height="511" alt="WhatsApp Image 2026-09-11 at 17 32 06" src="https://github.com/user-attachments/assets/2d871838-8ad8-432a-8169-4078f29ed44f" />
 it has been designed in tinkercad and uses m3 screws (3.4mm) might turn out different with other printers
-https://www.tinkercad.com/things/gyOfBtvMFHk-hack-pad
+The link: https://www.tinkercad.com/things/gyOfBtvMFHk-hack-pad
 
