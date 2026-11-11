@@ -1,6 +1,7 @@
 # ShortLink-Pad
 
 A hackpad mainly for links and easy accses. Consists of 5 keyswiches 1 rotary encoder for volume controll and ect, one 0.91 inch oled and seeeduino xiao for the micro controller.
+
 <img width="349" height="268" alt="image" src="https://github.com/user-attachments/assets/b9a7a883-1b20-4109-9ea3-93ec875680d8" />
 
 
